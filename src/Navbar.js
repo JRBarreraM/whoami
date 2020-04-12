@@ -7,7 +7,7 @@ function Navbar() {
         <nav class="navbar">
             <ul class="navbar-nav">
             <li class="logo">
-                <a href="#" class="nav-link">
+                <a href="https://github.com/JRBarreraM" class="nav-link">
                 <span class="link-text logo-text">Fireship</span>
                 <svg
                     aria-hidden="true"
@@ -36,7 +36,7 @@ function Navbar() {
             </li>
 
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://www.linkedin.com/in/jrbarreram/" class="nav-link">
                 <svg
                     aria-hidden="true"
                     focusable="false"
@@ -65,7 +65,7 @@ function Navbar() {
             </li>
 
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://github.com/JRBarreraM" class="nav-link">
                 <svg
                     aria-hidden="true"
                     focusable="false"
@@ -94,7 +94,7 @@ function Navbar() {
             </li>
 
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://www.linkedin.com/in/jrbarreram/" class="nav-link">
                 <svg
                     aria-hidden="true"
                     focusable="false"
@@ -123,7 +123,7 @@ function Navbar() {
             </li>
 
             <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="https://www.linkedin.com/in/jrbarreram/" class="nav-link">
                 <svg
                     aria-hidden="true"
                     focusable="false"
@@ -152,9 +152,8 @@ function Navbar() {
             </li>
 
             <li class="nav-item" id="themeButton">
-                <a href="#" class="nav-link">
+                <a href="https://www.linkedin.com/in/jrbarreram/" class="nav-link">
                 <svg
-                    class="theme-icon"
                     id="lightIcon"
                     aria-hidden="true"
                     focusable="false"
@@ -179,7 +178,7 @@ function Navbar() {
                     </g>
                 </svg>
                 <svg
-                    class="theme-icon"
+                    class="svg-inline--fa fa-sun fa-w-16 fa-7x"
                     id="solarIcon"
                     aria-hidden="true"
                     focusable="false"
@@ -188,7 +187,6 @@ function Navbar() {
                     role="img"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 512 512"
-                    class="svg-inline--fa fa-sun fa-w-16 fa-7x"
                 >
                     <g class="fa-group">
                     <path
@@ -204,7 +202,7 @@ function Navbar() {
                     </g>
                 </svg>
                 <svg
-                    class="theme-icon"
+                    class="svg-inline--fa fa-sunglasses fa-w-18 fa-7x"
                     id="darkIcon"
                     aria-hidden="true"
                     focusable="false"
@@ -213,7 +211,6 @@ function Navbar() {
                     role="img"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 576 512"
-                    class="svg-inline--fa fa-sunglasses fa-w-18 fa-7x"
                 >
                     <g class="fa-group">
                     <path
